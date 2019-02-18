@@ -1,2 +1,2 @@
 # CityLocator
-a simple example for lists, tuples and loop statements with chrome browser
+Example for lists, tuples and loop statements with Google Chrome Browser
